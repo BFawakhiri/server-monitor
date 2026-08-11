@@ -1,0 +1,24 @@
+==============================
+SERVER HEALTH REPORT
+==============================
+Hostname:        bashir
+Current User:    bashir
+Date:            2026-08-11 15:07
+Operating System:Linux 7.0.0-29-generic
+Kernel:          #29-Ubuntu
+CPU Usage:       1.5%
+------------------------------
+Memory Usage:
+  Total: 7.23 GB
+  Used:  2.73 GB
+  Free:  4.49 GB
+  Usage: 37.8%
+------------------------------
+Disk Usage (/):
+  Used:  13.69 GB
+  Free:  96.87 GB
+  Usage: 12.4%
+------------------------------
+IP Address:      192.168.64.5
+Uptime:          0 Days 1 Hours
+==============================
